@@ -1,0 +1,11 @@
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\bin\Debug\ProjektNr1_Krajewski66460.exe.config
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\bin\Debug\ProjektNr1_Krajewski66460.exe
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\bin\Debug\ProjektNr1_Krajewski66460.pdb
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\Macierze.csproj.AssemblyReference.cache
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\Macierze.csproj.SuggestedBindingRedirects.cache
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\ProjektNr1_Krajewski66460.Properties.Resources.resources
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\Macierze.csproj.GenerateResource.cache
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\Macierze.csproj.CoreCompileInputs.cache
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\ProjektNr1_Krajewski66460.exe
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\ProjektNr1_Krajewski66460.pdb
+C:\Users\kraje\OneDrive\Pulpit\ProjektNr1_Krajewski66460\obj\Debug\Macierze.NoweTypyDanych.resources
