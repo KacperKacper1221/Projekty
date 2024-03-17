@@ -1,0 +1,13 @@
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\bin\Debug\Figury_geometryczne.exe.config
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\bin\Debug\Figury_geometryczne.exe
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\bin\Debug\Figury_geometryczne.pdb
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury geometryczne.csproj.AssemblyReference.cache
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury geometryczne.csproj.SuggestedBindingRedirects.cache
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.Properties.Resources.resources
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury geometryczne.csproj.GenerateResource.cache
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury geometryczne.csproj.CoreCompileInputs.cache
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.exe
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.pdb
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.RysowanieMyszą.resources
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.KokpitNr2.resources
+C:\Users\kraje\OneDrive\Pulpit\Figury geometryczne\obj\Debug\Figury_geometryczne.KreślenieFigur.resources
