@@ -1,4 +1,0 @@
-Pierwszą rzeczą jaka rzuca mi się w oczy jest możliwość zastąpienia pętli 
-" for " i " foreach " funkcją LINQ aby kod był czytelniejszy.
-
-Zamiast pól publicznych w klasie ImportedObject użyłbym właściwości aby lepiej kontrolować dostęp do danych
